@@ -4,23 +4,17 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|水蓮(Suiren)|
+|Twitter|[@cometbeet](https://twitter.com/cometbeet)|
 
 ## スキル
 ### 言語
-- Ruby
 - PHP
-- Java
-- などなど
+- JavaScript
+
 
 ### フレームワーク
-
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- (Smarty)
 
 ### その他
 
@@ -31,8 +25,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 
 
 ## 強み
 
